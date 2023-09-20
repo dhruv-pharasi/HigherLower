@@ -1,3 +1,5 @@
+# Data accurate as of September 2023
+
 data = [
     {
         'name': 'Instagram',
@@ -334,5 +336,41 @@ data = [
         'follower_count': 80.9,
         'description': 'Social media personality',
         'country': 'Senegal'
+    },
+    {
+        'name': 'Narendra Modi',
+        'follower_count': 79.1,
+        'description': 'Prime Minister',
+        'country': 'India'
+    },
+    {
+        'name': 'Lisa',
+        'follower_count': 97.7,
+        'description': 'Musician',
+        'country': 'Thailand'
+    },
+    {
+        'name': 'Katrina Kaif',
+        'follower_count': 76.3,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Deepika Padukone',
+        'follower_count': 75.9,
+        'description': 'Actress',
+        'country': 'India'
+    },
+    {
+        'name': 'Karim Benzema',
+        'follower_count': 75,
+        'description': 'Footballer',
+        'country': 'France'
+    },
+    {
+        'name': 'Premier League',
+        'follower_count': 70.1,
+        'description': 'Professional Football League',
+        'country': 'United Kingdom'
     }
 ]
